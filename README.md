@@ -1,7 +1,7 @@
 <!-- Banner de boas-vindas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile views"/>
-  <h1>👋 Olá, eu sou SEU NOME!</h1>
+  <h1>👋 Bem vindo(a) !</h1>
 </p>
 
 <!-- Links sociais -->
@@ -12,20 +12,16 @@
   <a href="https://www.linkedin.com/in/SEU_PERFIL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SEU_PERFIL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[Meu Projeto](link-do-projeto)**  
-- 🌱 Estudando **Java**, **Python**, **Machine Learning**  
+- 🌱 Entusista em IA, LOW CODE e Automação  
 - 👯 Buscando colaborar em projetos open-source de **automação** e **web apps**  
 - 💬 Me pergunte sobre **PHP**, **n8n**, **Streamlit**  
-- 📫 Como me achar: seunome@email.com  
+- 📫 Como me achar: [linkedin](https://www.linkedin.com/in/danilo-hashinaga-siqueira-36719722/) 
 
 ---
 
