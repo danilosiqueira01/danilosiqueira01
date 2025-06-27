@@ -18,14 +18,17 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Entusista em IA, LOW CODE e Automação  
-- 👯 Buscando colaborar em projetos open-source de **automação** e **web apps**  
-- 💬 Me pergunte sobre **PHP**, **n8n**, **Streamlit**  
+- 🌱 Analista SAN e Storage  
+- 👯 Entusista em IA, LOW CODE e Automação  
+- 💬 Compartilho meus projetos aqui
+- 🌱 Todos os projetos aqui sao desenvolvidos utilizando IA. 
 - 📫 Como me achar: [linkedin](https://www.linkedin.com/in/danilo-hashinaga-siqueira-36719722/) 
 
 ---
 
 ## 🛠️ Tech Stack
+
+Linguagens e tecnologias utilizadas nos projetos
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -55,16 +58,15 @@
 
 | Projeto                           | Descrição                             | Link                             |
 |-----------------------------------|---------------------------------------|----------------------------------|
-| 💬 **Chatbot AI**                 | Bot de atendimento com LangChain      | [Repositório](link-do-repo)      |
-| 📊 **Dashboard de Vendas**        | Dashboard em Streamlit + Google Sheets| [Repositório](link-do-repo)      |
-| 🔧 **Automação n8n**              | Fluxos de automação de e-commerce     | [Repositório](link-do-repo)      |
+| 💬 **TBD**                       | TBD                                   | TBD      |
+
 
 ---
 
 ## ⚡ Curiosidade
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Geek GIF" width="200"/>
+  <img src="[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif](https://giphy.com/gifs/ai-revolution-systaime-fQo0S29Li6Xslxwmr4)" alt="Geek GIF" width="200"/>
 </p>
 
 ---
