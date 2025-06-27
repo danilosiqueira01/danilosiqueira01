@@ -1,6 +1,4 @@
 <!-- Banner de boas-vindas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile views"/>
   <h1>👋 Bem vindo(a) !</h1>
 </p>
 
