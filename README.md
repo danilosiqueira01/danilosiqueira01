@@ -66,7 +66,7 @@ Linguagens e tecnologias utilizadas nos projetos
 ## ⚡ Curiosidade
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlnNDUzcGphY2cybGs5d20yZjNzdGoxOTkydDlld2hpOHg0aWVjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFUP2wIO2kQ2dQ8eOi/giphy.gif" alt="Geek GIF" width="200"/>
+  <img src="https://media.giphy.com/media/hr216HOgDKL0dri3cD/giphy.gif" alt="Geek GIF" width="200"/>
 </p>
 
 ---
