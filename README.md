@@ -47,9 +47,9 @@ Linguagens e tecnologias utilizadas nos projetos
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danilosiqueira01&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiqueira01&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
