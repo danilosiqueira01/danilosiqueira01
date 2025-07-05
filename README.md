@@ -58,7 +58,7 @@ Linguagens e tecnologias utilizadas nos projetos
 
 | Projeto                           | Descrição                                                            | Link                                                             |
 |-----------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
-| 💬 **controle_estoque**          | WebApp para Controle de Estoque ONLINE com SUPABASE.                  | (https://github.com/danilosiqueira01/controle_estoque.git)      |
+|  **controle_estoque**          | WebApp para Controle de Estoque ONLINE com SUPABASE.                  | https://github.com/danilosiqueira01/controle_estoque.git      |
 
 
 ---
