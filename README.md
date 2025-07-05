@@ -56,9 +56,9 @@ Linguagens e tecnologias utilizadas nos projetos
 
 ## 💬 Meus Projetos Recentes
 
-| Projeto                           | Descrição                             | Link                             |
-|-----------------------------------|---------------------------------------|----------------------------------|
-| 💬 **TBD**                       | TBD                                   | TBD      |
+| Projeto                           | Descrição                                                            | Link                                                             |
+|-----------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
+| 💬 **controle_estoque**          | WebApp para Controle de Estoque ONLINE com SUPABASE.                  | (https://github.com/danilosiqueira01/controle_estoque.git)      |
 
 
 ---
